@@ -19,10 +19,3 @@ print(convert_to_binary(453717338523405869254990822, 359853738140598360318802514
 
 def add_binary(a, b):
     return convert_to_binary(a, b)
-
-
-def DecimalToBinary(a, b):
-    return bin(a+b)[2:]
-
-
-print(bin(4 + 15))
