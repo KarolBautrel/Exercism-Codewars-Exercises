@@ -10,4 +10,4 @@ def distance(strand_a, strand_b):
         raise ValueError("Strands must be of equal length.")
 
 
-print(distance('cad', 'csb'))
+print(distance('cad', 'b'))
